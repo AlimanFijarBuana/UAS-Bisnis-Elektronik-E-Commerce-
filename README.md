@@ -1,7 +1,6 @@
 # Ecommerce Toko Elektronik
 
 ## Informasi Proyek
-
 **Nama:** Aliman Fijar Buana  
 **NIM:** 312210664  
 **Mata Kuliah:** UAS Bisnis Elektronik  
@@ -10,13 +9,11 @@
 ---
 
 ## 📱 Tentang Aplikasi
-
 Website Ecommerce Toko Elektronik adalah platform jual beli produk elektronik online yang dikembangkan dengan teknologi modern. Aplikasi ini menyediakan fitur lengkap untuk mengelola produk, keranjang belanja, dan transaksi pembelian.
 
 ---
 
 ## 🎥 Video Demo
-
 📹 **Tonton demo aplikasi di YouTube:**  
 
 [![Demo Ecommerce Toko Elektronik](https://img.youtube.com/vi/nuF0r0eYxEE/maxresdefault.jpg)](https://youtu.be/nuF0r0eYxEE)
@@ -58,7 +55,6 @@ Website Ecommerce Toko Elektronik adalah platform jual beli produk elektronik on
 ---
 
 ## ✨ Fitur Utama
-
 - 🏠 **Homepage** - Tampilan landing page menarik dengan produk unggulan
 - 🛍️ **Katalog Produk** - Menampilkan berbagai produk elektronik
 - 🔍 **Pencarian Produk** - Fitur search untuk menemukan produk
@@ -95,7 +91,6 @@ npm start
 ---
 
 ## 📂 Struktur Proyek
-
 ```
 .
 ├── backend/           # Yii Framework API
@@ -118,7 +113,6 @@ npm start
 ---
 
 ## 📝 Cara Upload Video ke YouTube
-
 1. Login ke YouTube Studio
 2. Klik tombol "CREATE" > "Upload videos"
 3. Pilih file video demo aplikasi
@@ -130,7 +124,6 @@ npm start
 ---
 
 ## 👨‍💻 Developer
-
 Dikembangkan oleh **Aliman Fijar Buana** (312210664)  
 Universitas Pelita Bangsa  
 Tahun 2025
@@ -138,13 +131,11 @@ Tahun 2025
 ---
 
 ## 📄 Lisensi
-
 Project ini dibuat untuk keperluan akademik UAS Bisnis Elektronik.
 
 ---
 
 ## 🙏 Terima Kasih
-
 Terima kasih kepada:
 - Dosen Pembimbing Mata Kuliah Bisnis Elektronik
 - Tim pengembang Yii Framework dan React.js

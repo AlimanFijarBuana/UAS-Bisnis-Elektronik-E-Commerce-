@@ -15,6 +15,18 @@ Website Ecommerce Toko Elektronik adalah platform jual beli produk elektronik on
 
 ---
 
+## 🎥 Video Demo
+
+📹 **Tonton demo aplikasi di YouTube:**  
+
+[![Video Demo Ecommerce Toko Elektronik](https://img.youtube.com/vi/YOUR_VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
+
+**[▶️ Klik di sini untuk menonton video demo lengkap](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)**
+
+> *Catatan: Ganti `YOUR_VIDEO_ID` dengan ID video YouTube Anda setelah upload*
+
+---
+
 ## 🛠️ Teknologi yang Digunakan
 
 ### Backend
@@ -104,15 +116,6 @@ npm start
 ├── home4.png          # Screenshot 4
 └── home5.png          # Screenshot 5
 ```
-
----
-
-## 🎥 Video Demo
-
-📹 **Tonton demo aplikasi di YouTube:**  
-[Klik di sini untuk menonton video demo](https://www.youtube.com/watch?v=YOUR_VIDEO_ID)
-
-> *Catatan: Ganti `YOUR_VIDEO_ID` dengan ID video YouTube Anda setelah upload*
 
 ---
 
